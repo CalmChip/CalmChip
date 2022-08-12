@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CalmChip
-- 🌱 I’m currently learning ... HTML, CSS, Javascript, MySQL, NoSQL and more.
+- 🌱 I’m currently learning ... HTML, CSS, Javascript, MySQL, NoSQL, React/Native.
 - To be updated...
 
 <!---
